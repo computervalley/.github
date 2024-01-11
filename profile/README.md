@@ -27,7 +27,7 @@
 <br />
 <div align="center">
   <a href="https://computervalley.online">
-    <img src="https://computervalley.online/public/images/logo.png" alt="Logo" height="150">
+    <img src="https://avatars.githubusercontent.com/u/102738995?s=200&v=4" alt="Logo" height="150">
   </a>
 
   <h3 align="center">Computer Valley</h3>
